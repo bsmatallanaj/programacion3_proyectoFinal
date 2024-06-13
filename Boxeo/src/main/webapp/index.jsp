@@ -8,7 +8,7 @@
 <head>
 <meta charset="ISO-8859-1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--Llamado al archivo css de nuestro proyecto-->
+    <!--Llamado al archivo css de nuestro proyecto  -->
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <title>FANATICOS DEL BOXEO</title>
     <!--Llamado a la imagen que va en el favicon-->
