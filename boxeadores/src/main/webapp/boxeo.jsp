@@ -1,6 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
-
 <%@ taglib uri="http://java.sun.com/jsp/jstl/sql" prefix="sql"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <!DOCTYPE html>
@@ -265,8 +264,7 @@
 									Drago.</p>
 							</div>
 							<img id="scrollToTop" src="https://acortar.link/dnvedA">
-						</div>
-
+						</div> <a href="bd.jsp">Base de datos boxeadores.</a>
 						<p></p> <!--El footer debe de ir siempre en todas las paginas--> <footer>
 							<div class="container">
 								<p>Derechos de autor &copy; 2024. Todos los derechos
